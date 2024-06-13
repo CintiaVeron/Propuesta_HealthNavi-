@@ -3,8 +3,8 @@
 ## Desarrollo de la Idea de Negocio
 
 ### 1. Definición del Problema
-  Necesidad: Los turistas a menudo necesitan atención médica durante su estancia en Nueva York, ya sea para emergencias, consultas rutinarias o tratamientos específicos.
-  Problema: La búsqueda y selección de centros médicos adecuados puede ser difícil y confusa para los turistas que no están familiarizados con la ciudad ni con el sistema de     salud local.
+Necesidad: Los turistas a menudo necesitan atención médica durante su estancia en Nueva York, ya sea para emergencias, consultas rutinarias o tratamientos específicos.
+Problema: La búsqueda y selección de centros médicos adecuados puede ser difícil y confusa para los turistas que no están familiarizados con la ciudad ni con el sistema de     salud local.
 ### 2. Propuesta de Valor:
 Navegación Personalizada de Salud: Ofrecer a los turistas una plataforma interactiva que facilite la búsqueda y recomendación de centros médicos basados en sus necesidades específicas.
 Integración de Chatbot: Implementar un chatbot inteligente que guíe a los usuarios a través del proceso de búsqueda, respondiendo preguntas y proporcionando recomendaciones personalizadas en tiempo real.
